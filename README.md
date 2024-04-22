@@ -6,8 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12shivam12&label=Profile%20views&color=0e75b6&style=flat" alt="12shivam12" /> </p>
 
 - 💬 Ask me about **JAVA, JAVASCRIPT ,REACT ,REDUX ,MATERIAL UI, BOOTSTARP, MONGODB, NODE, EXPRESS, HTML, CSS,**
-Portfolio -> https://12shivam12.github.io/
+  
+- Portfolio  https://12shivam12.github.io/
+
 - 📫 How to reach me **shivamyadavskd87@gmail.com**
+
+- <a href="https://drive.google.com/file/d/1UaBdBDUCrQi0aT_z-5nF-OYzR4bLMUhM/view?usp=sharing" target="blank">Resume :</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
