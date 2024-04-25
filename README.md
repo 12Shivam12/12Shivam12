@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Shivam yadav</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate MERN stack developer committed to crafting clean, efficient code and innovating solutions. Focused on React, Redux, Node.js, MongoDB, Express, and Tailwind CSS, adept at tackling complex challenges and bringing ideas to fruition through the power of technology.</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=12shivam12&label=Profile%20views&color=0e75b6&style=flat" alt="12shivam12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=12shivam12&label=Profile%20views&color=0e75b6&style=flat" alt="12shivam12" /> </p>
 
 - 💬 Ask me about **JAVA, JAVASCRIPT ,REACT ,REDUX ,MATERIAL UI, BOOTSTARP, MONGODB, NODE, EXPRESS, HTML, CSS,**
-  
-- Portfolio  https://12shivam12.github.io/
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/12Shivam12" target="blank">Github :</a>
 
 - 📫 How to reach me **shivamyadavskd87@gmail.com**
 
-- <a href="https://drive.google.com/file/d/1UaBdBDUCrQi0aT_z-5nF-OYzR4bLMUhM/view?usp=sharing" target="blank">Resume :</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UaBdBDUCrQi0aT_z-5nF-OYzR4bLMUhM/view?usp=drive_link" target="blank">Resume :</a>
+
+  
+- Portfolio  https://12shivam12.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
