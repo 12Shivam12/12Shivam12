@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivamyadavskd87@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UaBdBDUCrQi0aT_z-5nF-OYzR4bLMUhM/view?usp=drive_link" target="blank">Resume :</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1T2CeBSXtxDdWfVxdz5ua0qITyJdiuvP1/view?usp=sharing" target="blank">Resume :</a>
 
   
 - 🌐 Portfolio  https://12shivam12.github.io/
